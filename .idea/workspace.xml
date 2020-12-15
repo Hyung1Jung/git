@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec7a9d8-bbaf-45a5-8adc-f48aefa9599c" name="Default Changelist" comment="feat : test2" />
+    <list default="true" id="2ec7a9d8-bbaf-45a5-8adc-f48aefa9599c" name="Default Changelist" comment="feat : test3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,15 +63,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature/myfeature" />
-                    <option name="lastUsedInstant" value="1607959018" />
+                    <option name="lastUsedInstant" value="1608035138" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1607958881" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/myfeature2" />
-                    <option name="lastUsedInstant" value="1607958784" />
+                    <option name="lastUsedInstant" value="1607960210" />
                   </RecentBranch>
                 </list>
               </option>
@@ -87,6 +85,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -103,15 +105,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,6 +134,7 @@
       <updated>1607892473132</updated>
       <workItem from="1607892474439" duration="701000" />
       <workItem from="1607956990432" duration="2080000" />
+      <workItem from="1608031903029" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1607892757547</created>
